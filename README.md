@@ -1,4 +1,4 @@
-# ALX-Interview
+# Datastructure And Algorithm Solved Problems
 
 ## Overview
 This project is a comprehensive collection of data structures and algorithm problems that I have tackled while preparing for interviews, using the Python programming language. It serves as a valuable resource for anyone aiming to enhance their coding skills and excel in technical interviews.
